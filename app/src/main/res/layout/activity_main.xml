@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:background="@color/colorLightGreen">
+    android:background="@color/colorLightPink">
 
     <EditText
         android:id="@+id/txtName"
@@ -37,9 +37,9 @@
         android:layout_below="@+id/txtName"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="40dp"
-        android:background="@color/colorLightPink"
+        android:background="@color/colorDarkGreen"
         android:text="OK"
-        android:textColor="@color/colorDarkGreen"
+        android:textColor="@color/colorLightPink"
         />
 
     <Switch
