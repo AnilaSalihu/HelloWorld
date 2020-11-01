@@ -1,0 +1,8 @@
+<resources>
+     <string name="app_name">HelloWorld</string>
+    <string name="txtGreeting">Welcome!</string>
+    <string name="txtButton">Open App</string>
+    <string name="txtDialog">Do you want to continue?</string>
+    <string name="txtLifeCycle">The lifecycle just started!</string>
+    <string name="txtDirections">Press OK if you want to continue</string>
+</resources>
