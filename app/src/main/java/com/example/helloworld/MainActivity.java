@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         System.out.println("You have called onCreate method!");
-
+        System.out.println("commited");
        // public void onClick(View view) {
         //    Toast.makeText(this, "This is a toast", Toast.LENGTH_LONG ).show();
       //  }
