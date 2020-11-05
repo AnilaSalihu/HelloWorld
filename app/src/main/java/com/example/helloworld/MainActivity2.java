@@ -29,5 +29,6 @@ public class MainActivity2 extends AppCompatActivity {
                 txt.setTextColor(Color.GREEN);
             }
         });
+
     }
 }
