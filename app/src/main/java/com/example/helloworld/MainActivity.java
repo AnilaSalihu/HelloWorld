@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         System.out.println("You have called onCreate method!");
         System.out.println("commited");
+        //push
 //         public void onClick(View view) {
 //            Toast.makeText(this, "This is button is clicked", Toast.LENGTH_LONG ).show();
 //          }
